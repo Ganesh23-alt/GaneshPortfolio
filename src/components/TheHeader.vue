@@ -1,6 +1,6 @@
 <template>
   <container align-center class="mt-6">
-    <v-navigation-drawer v-model="drawer" app width="250rem" height="145rem">
+    <v-navigation-drawer v-model="drawer" app width="250rem" height="95%">
       <div align-center class="mt-6">
       <v-list class="pt-4" >
         
