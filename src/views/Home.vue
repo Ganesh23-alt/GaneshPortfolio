@@ -102,7 +102,7 @@ import VueCompareImage from "vue-compare-image";
 export default {
   metaInfo: {
     title: "Home",
-    titleTemplate: "Ganesh Developer",
+    titleTemplate: "Ganesh Ranabhat",
   },
   components: {
     "vue-typer": VueTyper,

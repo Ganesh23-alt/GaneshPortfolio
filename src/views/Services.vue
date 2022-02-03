@@ -61,8 +61,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Services",
-    titleTemplate: "Ganesh's Space",
+    title: "Ganesh's Services",
   },
   data() {
     return {

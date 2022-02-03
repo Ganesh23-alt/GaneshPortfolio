@@ -89,6 +89,9 @@ import {
   minLength
 } from "vuelidate/lib/validators";
 export default {
+    metaInfo: {
+    title: "Contact Ganesh Ranabhat",
+  },
   mixins: [validationMixin],
   validations: {
     name: { required, maxLength: maxLength(20) },
