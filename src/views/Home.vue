@@ -3,17 +3,17 @@
     <VueCompareImage
       class="hidden-md-and-down"
       hover
-      :style="{ minWidth: '1250px',RightImageStyle }"
+      :style="{ minWidth: '1250px' }"
       :sliderLineWidth="sliderLine"
       :handleSize="hSize"
-      :leftImage="leftImage"
-      :rightImage="rightImage"
+      :leftImage="rightImage"
+      :rightImage="leftImage"
       :sliderPositionPercentage="sliderPosition"
     />
     <VueCompareImage
       class="hidden-lg-and-up"
       hover
-      :style="{ maxWidth: '400px' }"
+      :style="{ maxWidth: '600px' }"
       :sliderLineWidth="sliderLine"
       :handleSize="hSize"
       :leftImage="leftImage2"
@@ -54,7 +54,6 @@
                   class="green--text font-weight-bold"
                 >VUE</span>, building great user experiences,
                 fighting for simplicity over complexity and constantly learning.
-                When I'm not coding or making videos, you'll find me traveling across Europe.
               </p>
             </div>
           </div>
@@ -126,8 +125,8 @@ export default {
         { href: "https://www.instagram.com/matricar", icon: "fab fa-instagram" }
       ],
       text1: ["Front-End Developer", "Web Developer", "Web Designer"],
-      leftImage: "https://i.imgur.com/W68PZpM.jpg",
-      rightImage: "https://i.imgur.com/7d0ducE.jpg", 
+      leftImage: " https://i.imgur.com/7d0ducE.jpg",
+      rightImage: "https://i.imgur.com/W68PZpM.jpg", 
       leftImage2: "https://i.imgur.com/vOQD7Ve.jpg",
       rightImage2: "https://i.imgur.com/6IW0QRe.png",
       sliderLine: 0,
