@@ -74,7 +74,7 @@ export default {
          {
           dialog: false,
           title: "Grocery E-commerce",
-          git: "https://github.com/Ganesh23-alt/VuetifyHomeShop",
+          git: "https://github.com/Ganesh23-alt",
           demo: "https://vuetify-home-shop.vercel.app/",
           tech: {
             tech1: "HTML",
@@ -87,7 +87,7 @@ export default {
         {
           dialog: false,
           title: "Clothing E-commerce",
-          git: "https://github.com/Ganesh23-alt/HomeShop",
+          git: "https://github.com/Ganesh23-alt",
           demo: "https://ganesh23-alt.github.io/HomeShop/",
           tech: {
             tech1: "HTML",
@@ -100,7 +100,7 @@ export default {
         {
           dialog: false,
           title: "This Site",
-          git: "https://github.com/Ganesh23-alt/GaneshPortfolio",
+          git: "https://github.com/Ganesh23-alt",
           demo: "https://ganesh-portfolio.vercel.app/",
           tech: {
             tech1: "VUE",
@@ -113,7 +113,7 @@ export default {
         {
           dialog: false,
           title: "Blog Posting",
-          git: "https://github.com/Ganesh23-alt/EKBANA-BlogTask",
+          git: "https://github.com/Ganesh23-alt",
           demo: "https://post-blog.vercel.app/",
           tech: {
             tech1: "VUE",
