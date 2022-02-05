@@ -24,11 +24,11 @@
             <v-list-tile-title>PORTFOLIO</v-list-tile-title>
           </v-list-tile-content>
         </v-list-tile>
-        <v-list-tile active-class="green--text" to="/blog">
+        <!-- <v-list-tile active-class="green--text" to="/blog">
           <v-list-tile-content>
             <v-list-tile-title>BLOG</v-list-tile-title>
           </v-list-tile-content>
-        </v-list-tile>
+        </v-list-tile> -->
         <v-list-tile active-class="green--text" to="/contact">
           <v-list-tile-content>
             <v-list-tile-title>CONTACT</v-list-tile-title>

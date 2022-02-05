@@ -54,6 +54,7 @@
                   class="green--text font-weight-bold"
                 >VUE</span>, building great user experiences,
                 fighting for simplicity over complexity and constantly learning.
+
               </p>
             </div>
           </div>

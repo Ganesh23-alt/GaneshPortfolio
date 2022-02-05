@@ -44,49 +44,36 @@ export default {
       images: [
         {
           dialog: false,
-          title: "VilaShirts Logo",
-          poster: "https://i.imgur.com/QEnmqcE.png"
+          title: "Grocery E-commerce",
+          poster: "https://i.imgur.com/CNStArM.png"
         },
         {
           dialog: false,
-          title: "BlackBird Property Group Logo",
-          poster: "https://i.imgur.com/b37FfUU.jpg"
+          title: "Blog Posting",
+          poster: "https://i.imgur.com/vlCDD0C.png"
         },
         {
           dialog: false,
-          title: "TeeLock Consulting Logo",
-          poster: "https://i.imgur.com/XSo4bmw.jpg"
+          title: "Clothing E-commerce",
+          poster: "https://i.imgur.com/23O4Urr.png"
         },
         {
           dialog: false,
-          title: "SEA||WA||MMXI",
-          poster: "https://i.imgur.com/thxUnTH.jpg"
+          title: "Portfolio Site",
+          poster: "https://i.imgur.com/aCKBQcM.png"
         },
         {
           dialog: false,
-          title: "Alpine365 Logo",
-          poster: "https://i.imgur.com/LOzW21e.jpg"
+          title: "Hotel Website",
+          poster: "https://i.imgur.com/WT6LaDG.png"
         },
         {
           dialog: false,
-          title: "Josefine Product Pack",
-          poster: "https://i.imgur.com/TrthgRN.jpg"
+          title: "Furniture Webiste",
+          poster: "https://i.imgur.com/RuLZB2c.png"
         },
-        {
-          dialog: false,
-          title: "Next Party Flayer",
-          poster: "https://i.imgur.com/tYjfL2d.jpg"
-        },
-        {
-          dialog: false,
-          title: "VilaShirts T-Shirts",
-          poster: "https://i.imgur.com/ULuRuFB.jpg"
-        },
-        {
-          dialog: false,
-          title: "BAB Coin",
-          poster: "https://i.imgur.com/YU52AVB.jpg"
-        }
+        
+    
       ]
     };
   }

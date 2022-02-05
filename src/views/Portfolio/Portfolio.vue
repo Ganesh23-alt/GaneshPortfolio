@@ -1,7 +1,9 @@
 <template>
+<kinesis-container>
   <v-container grid-list-xl>
     <v-layout row justify-center align-center wrap class="mt-4 pt-2">
       <v-flex v-for="portfolio in portfolios" :key="portfolio.src" xs12 sm12 md4 lg4 xl4>
+        <kinesis-element :strength="30" type="depth">
         <v-card
           :to="'/portfolio/'+(portfolio.title).toLowerCase()"
           hover
@@ -15,12 +17,15 @@
             <v-flex text-xs-center subheading font-weight-bold>{{portfolio.title}}</v-flex>
           </v-card-title>
         </v-card>
+        </kinesis-element>
       </v-flex>
     </v-layout>
   </v-container>
+    </kinesis-container>
 </template>
 
 <script>
+import {KinesisContainer , KinesisElement} from 'vue-kinesis'
 export default {
   metaInfo: {
     title: "Ganesh's Portfolio",
