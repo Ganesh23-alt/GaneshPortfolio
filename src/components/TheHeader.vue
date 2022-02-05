@@ -1,10 +1,11 @@
 <template>
-  <container align-center class="mt-6">
+  <container class="justfiy-center" >
     <v-navigation-drawer v-model="drawer" app width="250rem" height="95%">
       <div align-center class="mt-6">
-      <v-list class="pt-4" >
+      <v-list class="justify-center" style="margin: 15rem 0rem 0rem 4rem" >
         
-        <v-list-tile active-class="green--text" to="/">
+        <v-list-tile active-class="green--text darken-6" to="/">
+        <v-icon left flat dark color="green darken-6" >fas fa-home</v-icon>
           <v-list-tile-content>
             <v-list-tile-title>HOME</v-list-tile-title>
           </v-list-tile-content>
